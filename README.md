@@ -1,0 +1,1 @@
+This report is about predicting the house price  by implementing a linear regression model that utilizes square footage (GrLivArea), number of bedrooms (BedroomAbvGr), and number of bathrooms (FullBath) as predictors for house prices (SalePrice)
